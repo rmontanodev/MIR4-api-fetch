@@ -1,0 +1,31 @@
+{
+  "name": "mir4-apidata",
+  "version": "1.0.0",
+  "description": "MIR4 api fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmontanodev/MIR4-api-fetch.git"
+  },
+  "keywords": [
+    "MIR4",
+    "api",
+    "fetch"
+  ],
+  "author": "Rsm04",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmontanodev/MIR4-api-fetch/issues"
+  },
+  "homepage": "https://github.com/rmontanodev/MIR4-api-fetch#readme",
+  "dependencies": {
+    "async": "^3.2.2",
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
+}
